@@ -1,0 +1,1 @@
+function [next_solution] = simulated_anneal(solution)
